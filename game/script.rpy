@@ -7,8 +7,8 @@ define entire_class = Character("Class")
 define phone = Character("Phone")
 
 define pc = DynamicCharacter("player_name", color="#84b766")
-define smug_nerd = Character("Smug Nerd")
-
+define smug_nerd = Character("Bernard")
+define mammoth = Character("Mammoth")
 
 # Define other variables
 define player_name = "Jay"
